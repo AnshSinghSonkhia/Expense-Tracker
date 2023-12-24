@@ -10,4 +10,4 @@ Thank you for considering contributing to the Smart City Dashboard Project! We w
 
 ```bash
 git clone https://github.com/AnshSinghSonkhia/Expense-Tracker.git
-cd expense-tracker
+cd Expense-Tracker
