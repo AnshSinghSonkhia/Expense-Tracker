@@ -27,13 +27,25 @@ In the era of financial management, individuals face the challenge of keeping tr
 
 The objective of the Expense Tracker is to provide users with a practical tool for managing their finances effectively. By offering insights into spending habits and encouraging budget-conscious decision-making, the app aims to empower individuals to achieve their financial goals and maintain a healthy financial lifestyle.
 
+### Tech-Stack
+
+- Next.js
+- TailwindCSS
+- JavaScript / TypeScript
+- **D3.js** or **Chart.js** for dynamic charts and graphs
+- **Node.js** with **Express.js** for a lightweight and fast backend
+- MongoDB / PostgreSQL
+
+> Note: You can use additional technologies for the benefit of the project.
+
+
 ## Mentor
 
 ### Ansh Singh Sonkhia
 
 LinkedIn Top AI & UX Voice | Co-Founder, Internglobally | Product Strategist & Founding Member, MentorHeal | Software Engineer, IdeaLAB | UI/UX Product Designer
 
-![Mentor Photo](link_to_mentor_photo)
+![Mentor Photo](https://avatars.githubusercontent.com/u/110414565?s=96&v=4)
 
 ## How to Contribute
 
